@@ -3,3 +3,7 @@
 ################################################################################
 
 /testapp/testapp/bin/Debug/netcoreapp1.1/testapp.runtimeconfig.json
+/testapp/testapp/bin/Debug/netcoreapp1.1/testapp.runtimeconfig.dev.json
+/testapp/testapp/bin/Debug/netcoreapp1.1/testapp.deps.json
+/testapp/.vs/testapp/v15/sqlite3/storage.ide
+/testapp/testapp/obj
